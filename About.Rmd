@@ -1,0 +1,48 @@
+---
+title: "Xiaofei_Dong_lab"
+output: html_document
+---
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+# **About me**
+![](images/1.jpg)
+This is Xiaofei, got my PhD in cognitive science at Macquarie University. I was conducting research on attentional capture of emotional stimuli using MEG under the supervison of Prof. Blake.W.Johnson. I am now a lecturer at Zhejiang Normoral University. My current research interest includes: (1) investigating the cognitive and neural basis of socially anxious people using both behavioural and meuroimaging approaches,(2) uncovering the mental structure of affective disorders, (3) finding the efficient way of psychological intervention of different age period.
+E-mail: dongdafei@126.com;
+
+
+
+
+</div>
+<div class="col-sm-6">
+
+### [Xiaofei Lab: Cognitive and Neural Basis of Social Anxity](https://www.researchgate.net/profile/Xiaofei-Dong-4)
+
+<a href = "https://crumplab.github.io">
+
+
+# How to use
+
+1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+
+2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+
+3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+
+4. Change everything to make it your own.
+
+</a>
+</div>
+<div class="col-sm-6">

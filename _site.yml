@@ -1,0 +1,11 @@
+name: "MyLabJournal"
+navbar:
+  title: "Xiaofei_Dong_lab"
+  left:
+    - text: "About me"
+      href: About.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Links"
+      href: Links.html
+output_dir: "docs"
